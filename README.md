@@ -1,6 +1,6 @@
 # DESIGN-OF-A-STEAM-POWER-PLANT-IN-THE-AGE-OF-A-CARBON-FEE
 #### For this project, as an academic exercise to illustrate the effects of a carbon fee, I designed a 20 MW steam power plant that maximizes efficiency assuming a twenty-year life cycle and illustrate the effects of a carbon fee on plant profitability. A (24-7) continuous operations was assumed for both fuel use and power generation. A MATLAB code was generalized so that it could calculate and plot the desired cycle given different open feedwater heaters and turbines. The constraints were as follow:
-  * T_max: 600 oC, P_max: 30 MPa (Note: These values are consistent with a modern supercritical vapor power plant.)
+  * Tmax: 600 C, Pmax: 30 MPa (Note: These values are consistent with a modern supercritical vapor power plant.)
   * Maximum Turbine efficiency: 92.5%
   * Maximum Pump efficiency: 86%
   * Maximum Boiler efficiency: 88%
